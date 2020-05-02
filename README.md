@@ -7,3 +7,9 @@ We have implemented a miniature version of consistent hashing as well as simple 
  - Cache server
 
 Check report for further insights.
+
+**Usage**: Open two seperate terminals and run client(s) and server
+ ```
+python3 Server.py
+python3 Client.py 127.0.0.1 8080
+```
